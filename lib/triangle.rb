@@ -1,3 +1,3 @@
 class Triangle
-  def initialize()
+  def initialize(:equilateral)
 end
